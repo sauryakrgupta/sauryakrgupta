@@ -1,5 +1,5 @@
 # 💫 About Me:
-Indian Institute of Information Technology Vadodara International Campus Diu
+Indian Institute of Information Technology Vadodara
 
 
 ## 🌐 Socials:
