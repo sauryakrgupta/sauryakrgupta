@@ -1,7 +1,7 @@
 # 💫 About Me:
-An Indian Institute of Information Technology Vadodara undergrad student majoring in Computer Science and Engineering. I possess a solid foundation in computer science, with strong competencies in algorithms, data structures, and programming languages such as C/C++ and Python.
-
-During my internship, I worked on a project aimed at automating a cataloging system using AI/ML to eliminate manual product registration and data entry on a platform, streamlining the workflow for retailers and addressing real-world challenges. I implemented background removal system using MODNet technology, integrating customizable background effects to enhance image processing. I also integrated Ximilar APIs to automate product description generation, further improving the efficiency and accuracy of the cataloging process.
+Quant Developer with a background in Computer Science from IIIT Vadodara, working on low-latency trading systems and alpha strategy research.
+I build high-performance C++ infrastructure for HFT and explore data-driven signals across NSE/BSE markets.
+Passionate about solving complex problems at the intersection of systems engineering and quantitative finance.
 
 
 ## 🌐 Socials:
